@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class LongestConsecutiveSequence {
     public static int longestConsecutive(int[] nums) {
         if(nums.length == 0) return 0;
